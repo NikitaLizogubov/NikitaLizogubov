@@ -8,4 +8,3 @@
 
 [1]: https://habr.com/ru/users/NLizogubov/posts/
 [2]: https://www.linkedin.com/in/%EF%A3%BF-nikita-lizogubov-197736185/
-[3]: https://registry.jsonresume.org/NikitaLizogubov
